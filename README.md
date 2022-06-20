@@ -3,9 +3,9 @@
 ![image](https://asset-pdf.scinapse.io/prod/2603648311/figures/figure-2.3.jpg)
 
 ## 實作成果
-X-coordinate : 
+X-coordinate : //
 <img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_x_final.png" alt="resultx" width="400"/>
-Y-coordinate : 
+Y-coordinate : //
 <img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_y_final.png" alt="resultx" width="400"/>
-Z-coordinate : 
+Z-coordinate : //
 <img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_z_final.png" alt="resultx" width="400"/>
