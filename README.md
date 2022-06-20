@@ -3,4 +3,5 @@
 ![image](https://asset-pdf.scinapse.io/prod/2603648311/figures/figure-2.3.jpg)
 
 ## 實作成果
-![resultx](https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_x_final.png =300x)
+\![resultx](https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_x_final.png)
+<img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_x_final.png" alt="resultx" width="400"/>
