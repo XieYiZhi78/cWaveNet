@@ -3,9 +3,13 @@
 ![image](https://asset-pdf.scinapse.io/prod/2603648311/figures/figure-2.3.jpg)
 
 ## 實作成果
+綠色實線為true data，紅色實線為unconditional WaveNet的預測結果，藍色虛線為conditional WaveNet  
 X-coordinate :  
 <img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_x_final.png" alt="resultx" width="400"/>  
 Y-coordinate :  
 <img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_y_final.png" alt="resultx" width="400"/>  
 Z-coordinate :  
 <img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_z_final.png" alt="resultx" width="400"/>  
+
+
+在X和Y的部分，
