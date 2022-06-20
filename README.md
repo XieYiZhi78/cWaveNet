@@ -1,2 +1,2 @@
 # cWaveNet
-![image](https://d3i71xaburhd42.cloudfront.net/2c7752c6d8015293ff0914f0f827225816513b97/12-Figure2.3-1.png)
+![image](https://asset-pdf.scinapse.io/prod/2603648311/figures/figure-2.3.jpg)
