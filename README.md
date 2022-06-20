@@ -4,6 +4,7 @@
 
 ## 實作成果
 綠色實線為true data(混沌Lorenz system)，紅色實線為unconditional WaveNet(uWN)的預測結果，藍色虛線為conditional WaveNet(cWN)的預測結果。  
+<br/>
 X-coordinate :  
 <img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_x_final.png" alt="resultx" width="400"/>  
 Y-coordinate :  
