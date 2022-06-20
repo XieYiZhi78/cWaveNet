@@ -4,8 +4,8 @@
 
 ## 實作成果
 X-coordinate :  
-<img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_x_final.png" alt="resultx" width="400"/>
+<img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_x_final.png" alt="resultx" width="400"/>  
 Y-coordinate :  
-<img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_y_final.png" alt="resultx" width="400"/>
+<img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_y_final.png" alt="resultx" width="400"/>  
 Z-coordinate :  
-<img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_z_final.png" alt="resultx" width="400"/>
+<img src="https://raw.githubusercontent.com/XieYiZhi78/cWaveNet/main/img/WaveNet_z_final.png" alt="resultx" width="400"/>  
