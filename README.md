@@ -21,3 +21,7 @@ Z-coordinate :
 |X|0.00577|0.227|0.00174|0.313|
 |Y|0.00864|0.177|0.00583|0.287|
 |Z|0.00496|0.168|0.00536|0.166|
+
+## References
+![Conditional time series forecasting with convolutional neural
+networks](https://arxiv.org/pdf/1703.04691.pdf)
